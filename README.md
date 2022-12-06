@@ -1,4 +1,4 @@
-![Cover](https://github.com/antoinelefrancq/antoinelefrancq/img/picture_cartonized.jpeg)
+![Cover](https://github.com/antoinelefrancq/antoinelefrancq/blob/main/img/picture_catonized.jpeg)
 
 ### Hello :wave:
 
