@@ -1,4 +1,6 @@
-![Cover](https://github.com/antoinelefrancq/antoinelefrancq/blob/main/img/picture_catonized.jpeg)
+<p align="center">
+  <img src="https://github.com/antoinelefrancq/antoinelefrancq/blob/main/img/picture_catonized.jpeg" alt="Antoine Lefrancq" height="200"/>
+</p>
 
 ### Hello :wave:
 
