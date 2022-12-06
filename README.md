@@ -1,3 +1,5 @@
+![Cover](https://github.com/antoinelefrancq/antoinelefrancq/img/picture_cartonized.jpeg)
+
 ### Hello :wave:
 
 :bust_in_silhouette: My name is Antoine.
